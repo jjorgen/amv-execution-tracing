@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eventTrace.iml" filepath="$PROJECT_DIR$/eventTrace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventTraceCriteria/eventTraceCriteria.iml" filepath="$PROJECT_DIR$/eventTraceCriteria/eventTraceCriteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventTraceSubject/eventTraceSubject.iml" filepath="$PROJECT_DIR$/eventTraceSubject/eventTraceSubject.iml" />
+    </modules>
+  </component>
+</project>
